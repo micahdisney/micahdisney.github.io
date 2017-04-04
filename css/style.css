@@ -1,0 +1,13 @@
+.fluid-container {
+    border: 3px solid black;
+    background-color: lightseagreen;
+    color: fff;
+}
+
+.header {
+    border: 2px solid red;
+}
+
+.nav-main {
+    border: 1px solid greenyellow;
+}
