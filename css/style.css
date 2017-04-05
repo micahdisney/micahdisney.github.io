@@ -8,6 +8,7 @@
     background-color: black;
     color: white;
     border-radius: 0;
+    margin: 0;
 
 }
 .row {
@@ -137,5 +138,29 @@ a:active {
 .video-container video.fillWidth {
     width: 100%;
 }
-    }
+
+
+
+
+
+.container { position:relative; }
+
+.container video {
+
+    position:relative;
+
+    z-index:0;
+
+}
+
+.overlay {
+
+    position:absolute;
+
+    top:0;
+
+    left:0;
+
+    z-index:1;
+
 }
