@@ -13,89 +13,89 @@
     margin: 0;
 
 }
-.row {
-    margin: 2%;
-}
+/*.row {*/
+    /*margin: 2%;*/
+/*}*/
 
-.container {
-    width: 100%;
-}
+/*.container {*/
+    /*width: 100%;*/
+/*}*/
 
-.panel {
-    background-color: #036564;
-    color: #E8DDCB;
-    border: none;
-}
-
-
-.well {
-    background-color: #036564;
-    color: #E8DDCB;
-    border: none;
-}
+/*.panel {*/
+    /*background-color: #036564;*/
+    /*color: #E8DDCB;*/
+    /*border: none;*/
+/*}*/
 
 
+/*.well {*/
+    /*background-color: #036564;*/
+    /*color: #E8DDCB;*/
+    /*border: none;*/
+/*}*/
 
 
-/* unvisited link */
-a:link {
-    color: red;
-}
 
-/* visited link */
-a:visited {
-    color: green;
-}
 
-/* mouse over link */
-a:hover {
-    color: hotpink;
-}
+/*!* unvisited link *!*/
+/*a:link {*/
+    /*color: red;*/
+/*}*/
 
-/* selected link */
-a:active {
-    color: blue;
-}
+/*!* visited link *!*/
+/*a:visited {*/
+    /*color: green;*/
+/*}*/
 
-@media (min-width: 768px) {
+/*!* mouse over link *!*/
+/*a:hover {*/
+    /*color: hotpink;*/
+/*}*/
 
-    .navbar-nav.navbar-center {
-        position: absolute;
-        left: 50%;
-        transform: translatex(-50%);
-    }
+/*!* selected link *!*/
+/*a:active {*/
+    /*color: blue;*/
+/*}*/
 
-    .fluid-container {
-        background-color: #031634;
-        color: #E8DDCB;
-    }
+/*@media (min-width: 768px) {*/
 
-    .navbar-inverse {
-        background-color: black;
-        color: white;
-        border-radius: 0;
+    /*.navbar-nav.navbar-center {*/
+        /*position: absolute;*/
+        /*left: 50%;*/
+        /*transform: translatex(-50%);*/
+    /*}*/
 
-    }
+    /*.fluid-container {*/
+        /*background-color: #031634;*/
+        /*color: #E8DDCB;*/
+    /*}*/
 
-    .row {
-        margin: 2%;
-    }
+    /*.navbar-inverse {*/
+        /*background-color: black;*/
+        /*color: white;*/
+        /*border-radius: 0;*/
 
-    .container {
-        width: 100%;
-    }
+    /*}*/
 
-    .panel {
-        background-color: #036564;
-        color: #E8DDCB;
-        border: none;
-    }
+    /*.row {*/
+        /*margin: 2%;*/
+    /*}*/
 
-    .well {
-        background-color: #036564;
-        color: #E8DDCB;
-        border: none;
-    }
-}
+    /*.container {*/
+        /*width: 100%;*/
+    /*}*/
+
+    /*.panel {*/
+        /*background-color: #036564;*/
+        /*color: #E8DDCB;*/
+        /*border: none;*/
+    /*}*/
+
+    /*.well {*/
+        /*background-color: #036564;*/
+        /*color: #E8DDCB;*/
+        /*border: none;*/
+    /*}*/
+/*}*/
 
 
