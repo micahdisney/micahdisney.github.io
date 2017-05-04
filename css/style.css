@@ -1,3 +1,8 @@
+body {
+    background-color: #031634;
+
+}
+
 #main-container {
     background-color: #031634;
     color: #E8DDCB;
@@ -14,4 +19,6 @@
 
 }
 
-
+.panel {
+    margin-top: 20px;
+}
