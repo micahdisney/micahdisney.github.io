@@ -1,14 +1,18 @@
 body {
-    background-color: white;
+    background-color: grey;
+    magin: 0px;
 
 }
 
 #main-container {
-    background-color: white;
+    background-color: lightgrey;
     color: black;
-    padding: 5%;
     margin-left: 7%;
     margin-right: 7%;
+}
+
+.fluid-container {
+    background-color: lightgrey;
 }
 
 
@@ -16,26 +20,37 @@ body {
     background-color: #1D285A;
     color: white;
     border-radius: 0;
-    margin: 0;
+    margin-left: 7%;
+    margin-right:7%;
 
 }
 
 #left-col {
     height: 200px;
-    background-color: lightseagreen;
+    background-color: #1D285A;
     color:white;
-    line-height: 200px;
-    font-size: 60px;
+    padding: 25px;
+    font-size: 12px;
+    margin:5px;
 
 }
 
 #right-col {
     height: 200px;
-    background-color: orangered;
+    background-color: #1D285A;
     color:white;
-    line-height: 200px;
-    font-size: 60px;
+    font-size:12px;
+    margin: 5px;
+    padding: 25px;
 
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+footer {
+    background-color: lightgrey;
 }
 
 .panel {
