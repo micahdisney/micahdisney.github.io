@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: lightgrey;
     magin: 0px;
 
 }
@@ -26,24 +26,25 @@ body {
 }
 
 #left-col {
+    color: #1D285A;
     height: 200px;
-    background-color: #1D285A;
-    color:white;
     padding: 25px;
-    font-size: 12px;
-    margin:5px;
+    font-size: 35px;
+    margin:20px;
+    border:5px solid white;
+    line-height: 60px;
 
 }
 
-#right-col {
-    height: 200px;
-    background-color: #1D285A;
-    color:white;
-    font-size:12px;
-    margin: 5px;
-    padding: 25px;
+/*#right-col {*/
+    /*height: 200px;*/
+    /*background-color: #1D285A;*/
+    /*color:white;*/
+    /*font-size:12px;*/
+    /*margin: 5px;*/
+    /*padding: 25px;*/
 
-}
+/*}*/
 
 .navbar-inverse .navbar-nav>li>a {
     color: white;
