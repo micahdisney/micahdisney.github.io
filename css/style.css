@@ -5,7 +5,7 @@ body {
 
 #main-container {
     /* Background pattern from Subtle Patterns */
-    background-image: url("../img/skulls.png");
+    background-image: url("../img/vintage-leaves.png");
     color: black;
     margin-left: 7%;
     margin-right: 7%;
@@ -64,3 +64,28 @@ footer {
 .panel {
     margin-top: 20px;
 }
+
+#row1 {
+    /*border: 2px solid red;*/
+}
+
+#row2 {
+    /*border: 2px solid orange;*/
+    /*margin-top:2%;*/
+    /*height: 100px;*/
+}
+
+.btn-block {
+    /*padding: 5% 0;*/
+    background-color: #1D285A;
+    color: white;
+    font-size: 30px;
+}
+
+/*#btn-left {*/
+    /*margin-left: 5%;*/
+/*}*/
+
+/*#btn-right {*/
+    /*margin-right: 5%;*/
+/*}*/
