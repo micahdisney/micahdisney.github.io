@@ -7,8 +7,8 @@ body {
     /* Background pattern from Subtle Patterns */
     background-image: url("../img/vintage-leaves.png");
     color: black;
-    margin-left: 7%;
-    margin-right: 7%;
+    /*margin-left: 7%;*/
+    /*margin-right: 7%;*/
     margin-top: 0%;
     height: 1000px;
 }
@@ -24,8 +24,8 @@ body {
     background-color: #1D285A;
     color: white;
     border-radius: 0;
-    margin-left: 7%;
-    margin-right:7%;
+    /*margin-left: 7%;*/
+    /*margin-right:7%;*/
     margin-bottom: 0;
 
 }
